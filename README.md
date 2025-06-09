@@ -1,4 +1,4 @@
-Here's a potential README content for your project:
+
 
 ---
 
